@@ -1,7 +1,9 @@
 import React from "react";
 
 const AuthIndexPage = () => (
-  <div>My AuthIndexPage index page rendered by next.js</div>
+  <div>
+    <h2>My AuthIndexPage index page rendered by next.js</h2>
+  </div>
 );
 
 export default AuthIndexPage;
